@@ -4,6 +4,12 @@
     <bytecodeTargetLevel>
       <module name="fiarstSeleniumProgect.main" target="1.8" />
       <module name="fiarstSeleniumProgect.test" target="1.8" />
+      <module name="open_trello_main" target="1.8" />
+      <module name="open_trello_test" target="1.8" />
+      <module name="openSite_main" target="1.8" />
+      <module name="openSite_test" target="1.8" />
+      <module name="telRan.fiarstSeleniumProgect.main" target="1.8" />
+      <module name="telRan.fiarstSeleniumProgect.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

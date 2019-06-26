@@ -5,6 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fiarstSeleniumProgect.iml" filepath="$PROJECT_DIR$/.idea/modules/fiarstSeleniumProgect.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fiarstSeleniumProgect.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fiarstSeleniumProgect.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fiarstSeleniumProgect.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fiarstSeleniumProgect.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openSite.iml" filepath="$PROJECT_DIR$/.idea/modules/openSite.iml" group="openSite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openSite_main.iml" filepath="$PROJECT_DIR$/.idea/modules/openSite_main.iml" group="openSite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openSite_test.iml" filepath="$PROJECT_DIR$/.idea/modules/openSite_test.iml" group="openSite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/open_trello.iml" filepath="$PROJECT_DIR$/.idea/modules/open_trello.iml" group="open_trello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/open_trello_main.iml" filepath="$PROJECT_DIR$/.idea/modules/open_trello_main.iml" group="open_trello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/open_trello_test.iml" filepath="$PROJECT_DIR$/.idea/modules/open_trello_test.iml" group="open_trello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telRan.fiarstSeleniumProgect.main.iml" filepath="$PROJECT_DIR$/.idea/modules/telRan.fiarstSeleniumProgect.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telRan.fiarstSeleniumProgect.test.iml" filepath="$PROJECT_DIR$/.idea/modules/telRan.fiarstSeleniumProgect.test.iml" />
     </modules>
   </component>
 </project>
